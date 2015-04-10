@@ -1,0 +1,18 @@
+{
+  "name": "noni-wkhtmltopdf",
+  "version": "0.0.1",
+  "author": "Leo Bossmann",
+  "license": "Apache-2.0",
+  "summary": "Puppet module to install wkhtmltopdf",
+  "source": "https://github.com/leobossmann/puppet-wkhtmltopdf",
+  "project_page": "https://github.com/leobossmann/puppet-wkhtmltopdf",
+  "issues_url": "https://github.com/leobossmann/puppet-wkhtmltopdf/issues",
+  "tags": ["things", "stuff"],
+  "operatingsystem_support": [
+    {
+    "operatingsystem": "Ubuntu",
+    "operatingsystemrelease": [ "14.04", "12.04" ]
+    }
+   ],
+  "dependencies": []
+}
